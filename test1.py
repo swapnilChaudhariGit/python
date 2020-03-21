@@ -1,1 +1,1 @@
-print ('My 1st python script')
+print ('My 1st python program')
